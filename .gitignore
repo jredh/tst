@@ -1,0 +1,9 @@
+project/
+target/
+global/
+
+# sub-projects
+*/target
+
+# COURSIER on Windows (I worked on a windows machine)
+null/
